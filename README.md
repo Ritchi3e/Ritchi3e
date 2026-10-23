@@ -7,7 +7,7 @@ No trabalho, testo funcionalidades de ponta a ponta: escrevo casos de teste a pa
 ### 🚀 Projeto em destaque
 
 **[App Geek](https://github.com/Ritchi3e/App-Geek)**: sistema web de inscrições por QR Code e caixa (PDV) das barracas para eventos acadêmicos, com controle de acesso por grupos de usuários.
-Feito com Next.js, React, TypeScript e PostgreSQL. Tem 421 testes automáticos e 28 casos de teste ligados aos requisitos. Foi apresentado no VI Encontro de Pesquisa, Extensão e Inovação da Uniguaçu.
+Feito com Next.js, React, TypeScript e PostgreSQL. Tem 427 testes automáticos e 28 casos de teste ligados aos requisitos. Foi apresentado no VI Encontro de Pesquisa, Extensão e Inovação da Uniguaçu.
 
 ### 🛠️ Tecnologias
 
